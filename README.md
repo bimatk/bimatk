@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://telegra.ph/file/4bbc4b6c92b039cb4da80.jpg" width="150" height="150" border="0" alt="PFP">
+  <img src="https://i.imgur.com/GLI7gkK.jpeg" width="150" height="150" border="0" alt="PFP">
   
-  # Laura Robô de Whatsapp Multi Device
+  #Robô de Whatsapp Multi Device
   
   [![Author](https://img.shields.io/badge/bayt-444-yellow.svg?style=for-the-badge&logo=github)](https://github.com/bayt444)
   
   ## [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
   
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F7IrLGErFucGvBvDGQrfUR)
  
-  Melhor robô de whatsapp do momento 
+  Bot pika do momento... 
 </div>
 
 ---
@@ -46,8 +45,8 @@ Obrigado por escolher nosso programa!
 ### Comandos básicos para a primeira instalação:
 
 ```bash
-git clone https://github.com/bayt444/laura-lite.git
-cd laura-lite
+https://github.com/bimatk/Bot.git
+cd Bot
 node .
 
 ```
