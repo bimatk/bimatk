@@ -45,7 +45,7 @@ Obrigado por escolher nosso programa!
 ### Comandos básicos para a primeira instalação:
 
 ```bash
-https://github.com/bimatk/Bot.git
+https://github.com/bimatk/bimatk.git
 cd Bot
 node .
 
